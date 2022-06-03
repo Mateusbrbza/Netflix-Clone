@@ -4,7 +4,7 @@ Projeto pessoal de uma webpage clone da Netflix feita utilizando a API disponibi
 
 Criado com o intuito de praticar a utilização da biblioteca ReactJS. 
 
-# Funções da aplicação (não finalizado)
+# Funções da aplicação
 
 Emular uma página inicial do serviço de Streaming Netflix, contendo no conteúdo da página:
   - Série em destaque ao abrir a página
