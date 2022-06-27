@@ -58,3 +58,5 @@ const handleOnClick = (movie) => {
     </div>
   );
 }
+
+export default Row;
